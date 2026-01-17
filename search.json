@@ -7,17 +7,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "doc/python_format_texte.html",
-    "href": "doc/python_format_texte.html",
-    "title": "Formatage du texte en Python",
-    "section": "",
-    "text": "import numpy as np\nimport matplotlib.pyplot as plt\nfrom scipy.stats import norm\n\nx = np.linspace(-5, 5, 1000)\n\npdf = norm.pdf(x, 0, 1)\nplt.plot(x, pdf, label='Normal Distribution')\nplt.show()"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Résumé d’informatique",
     "section": "",
-    "text": "Résumé d’informatique\na button"
+    "text": "Résumé d’informatique"
   }
 ]
