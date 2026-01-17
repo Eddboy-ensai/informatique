@@ -4,11 +4,10 @@ project:
 website:
   title: "informatique"
   navbar:
-    background: lightseagreen
     left:
       - href: index.qmd
         text: Home
-      - text: Examples with code
+      - text: Python
         menu:
           - href: doc/python_format_texte.qmd
             text: "Format Texte"
@@ -16,6 +15,6 @@ website:
 format:
   html:
     theme:
-      dark: quartz
+      dark: darkly
       light: cosmo
     css: styles.css
