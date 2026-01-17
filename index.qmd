@@ -1,0 +1,12 @@
+---
+title: "Résumé d'informatique"
+description: ""
+author: "Eddy Boyce"
+format: html
+from: markdown+emoji
+---
+
+
+# Résumé d'informatique
+
+[a button]{.green-button}

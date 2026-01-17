@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "informatique"
+  navbar:
+    background: lightseagreen
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Examples with code
+        menu:
+          - href: doc/python_format_texte.qmd
+            text: "Format Texte"
+
+format:
+  html:
+    theme:
+      dark: quartz
+      light: cosmo
+    css: styles.css
